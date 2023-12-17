@@ -1,0 +1,24 @@
+=====================================================
+      INSTAGRAM UNFOLLOWERS FINDER - YARDIM DOSYASI
+=====================================================
+
+PROGRAM AMACI:
+Bu program, Instagram'da sizi takip etmeyen kullanıcıları bulmayı amaçlar. Otomatik olarak giriş yapar, takip ettiklerinizi çeker ve sizi takip etmeyenleri belirler.
+
+KURULUM:
+1. Python'u yükleyin: https://www.python.org/downloads/
+2. Selenium'u yüklemek için terminal veya komut istemcisine şu komutu yazın: `pip install selenium`
+3. Chromedriver'ı indirin: https://sites.google.com/chromium.org/driver/
+
+NASIL KULLANILIR:
+1. `main.py` dosyasını metin düzenleyicide açın.
+2. Kullanıcı adı ve şifrenizi belirtin.
+3. Terminal veya komut istemcisinde `python main.py` komutunu çalıştırın.
+
+UYARILAR:
+- Instagram, bot kullanımını izler. Kullanım koşullarını ihlal etmemeye özen gösterin.
+- Açık kaynak kodludur. Herhangi bir şekilde instagram hesabınıza dışarıdan erişim sağlanmaz.
+- Kodu kişiselleştirmek için `genel_liste`'yi düzenleyebilirsiniz.
+
+- Herhangi bir hatada bana ulaşabilirsiniz.
+=====================================================
